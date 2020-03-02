@@ -1,9 +1,9 @@
-504d7e1c2227378eacc989e3cdaf0b37 *DESCRIPTION
+f188eeb2fb230f76c6f96a52e678593a *DESCRIPTION
 4a252eddeaadbd95b049abb03f0c227c *NAMESPACE
-8cbbb2769005d4a72b85968cf35cd5b7 *R/dependencies.R
+47e09efb1193426e2d16b554912ba69f *R/dependencies.R
 6b07d8f57221fa189b426c15dc15f09d *R/register_gis.R
 58cfd686b786186871b9ae019ddff124 *R/st_example.R
-8113d59fb9042710f27b56dcada323be *README.md
+4bd133a677af14244ddc70e1c7294631 *README.md
 6fee65690dd4bcf9ed743274f22cca3c *inst/examples/points.txt
 49d19ffdd13288a34fd866b6082d751c *inst/examples/polygons.txt
 ac1f2df4820478985ffcf57eedfc60f4 *man/register_gis.Rd

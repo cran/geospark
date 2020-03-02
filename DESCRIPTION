@@ -1,7 +1,7 @@
 Package: geospark
 Type: Package
 Title: Bring Local Sf to Spark
-Version: 0.2.1
+Version: 0.3.1
 Authors@R: c(
     person("Harry", "Zhu", email = "7harryprince@gmail.com", role = c("aut", "cre")),
     person("Javier", "Luraschi", email = "javier@rstudio.com", role = c("ctb"))
@@ -21,8 +21,8 @@ Imports: sparklyr (>= 1.0.0), dplyr (>= 0.8.3), dbplyr (>= 1.3.0)
 RoxygenNote: 6.1.1
 Suggests: testthat, knitr, utils
 NeedsCompilation: no
-Packaged: 2019-09-30 22:31:07 UTC; harryzhu
+Packaged: 2020-02-29 01:44:17 UTC; harryzhu
 Author: Harry Zhu [aut, cre],
   Javier Luraschi [ctb]
 Repository: CRAN
-Date/Publication: 2019-10-04 11:00:02 UTC
+Date/Publication: 2020-03-02 05:40:02 UTC
